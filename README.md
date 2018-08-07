@@ -5,11 +5,12 @@ Created a chat application to learn Vue.js + Firebase Realtime Database.
 ## Build Setup
 
 ```bash
-1- Create Firebase Realtime Database
-
-2- Copy the configuration for web application and paste on '// Configuration for Firebase - Realtime Database' in index.html
-
-(*) This application do not use authentication, so change the rules or implement authentication.
+# 1- Create Firebase Realtime Database
+#
+# 2- Copy the configuration for web application and paste on 
+# '// Configuration for Firebase - Realtime Database' in index.html file
+#
+# (*) This application do not use authentication, so change the rules or implement authentication.
 ```
 
 ## About this course
